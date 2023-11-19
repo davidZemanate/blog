@@ -3,17 +3,17 @@ body{
     margin: 0;
     border: 0;
     text-align: center;
-    background: #000;
+    background: #FFF;
     color:#fff;
     font-family: "Arial";
 }
 
 header{
     position: relative;
-   
+    box-shadow: 0PX 2PX 50PX 0PX rgba(0, 0, 0, 0.5);
     height: 50px;
-    background: #fff;
-    color: #000;
+    background: #33A;
+    color: #FFF;
     padding: 1%;
     margin-bottom: 3%;
     display: flex;

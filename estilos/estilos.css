@@ -1,4 +1,6 @@
 body{
+    margin: 0;
+    border: 0;
     text-align: center;
     background: #000;
     color:#fff;
@@ -7,7 +9,7 @@ body{
 
 header{
     width: 100%;
-    height: 40vh;
+    height: 40px;
     background: #fff;
     color: #000;
 }
@@ -24,5 +26,5 @@ header{
     margin: auto;
     align-items: center;
     align-self: center;
-    background-image: url('C:\Users\David\Documents\GitHub\Proyecto1\img\carro.jpg');
+    background-image: url('img\carro.jpg');
 }
